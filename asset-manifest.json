@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/promise_task/static/css/main.e1bf9926.chunk.css",
+    "main.js": "/promise_task/static/js/main.8203d265.chunk.js",
+    "main.js.map": "/promise_task/static/js/main.8203d265.chunk.js.map",
+    "runtime-main.js": "/promise_task/static/js/runtime-main.80751b24.js",
+    "runtime-main.js.map": "/promise_task/static/js/runtime-main.80751b24.js.map",
+    "static/js/2.eba2d47a.chunk.js": "/promise_task/static/js/2.eba2d47a.chunk.js",
+    "static/js/2.eba2d47a.chunk.js.map": "/promise_task/static/js/2.eba2d47a.chunk.js.map",
+    "index.html": "/promise_task/index.html",
+    "precache-manifest.33e2c838ff26dcb55fc3e5d76dfe5cfa.js": "/promise_task/precache-manifest.33e2c838ff26dcb55fc3e5d76dfe5cfa.js",
+    "service-worker.js": "/promise_task/service-worker.js",
+    "static/css/main.e1bf9926.chunk.css.map": "/promise_task/static/css/main.e1bf9926.chunk.css.map",
+    "static/js/2.eba2d47a.chunk.js.LICENSE.txt": "/promise_task/static/js/2.eba2d47a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80751b24.js",
+    "static/js/2.eba2d47a.chunk.js",
+    "static/css/main.e1bf9926.chunk.css",
+    "static/js/main.8203d265.chunk.js"
+  ]
+}
